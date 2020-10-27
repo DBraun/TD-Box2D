@@ -1,6 +1,6 @@
 # TD-Box2D
 
-This prepares [Box2D](https://github.com/erincatto/box2d) for usage in TouchDesigner [Custom Operators](https://docs.derivative.ca/Custom_Operators). Users can make their own plugins by copying from the existing projects inside the [TD-Box2D folder](https://github.com/DBraun/TD-Box2D/tree/master/TD-Box2D).
+This prepares [Box2D](https://github.com/erincatto/box2d) for usage in TouchDesigner [Custom Operators](https://docs.derivative.ca/Custom_Operators). Users can make their own plugins by copying from the existing projects inside the [TD-Box2D folder](https://github.com/DBraun/TD-Box2D/tree/main/TD-Box2D).
 
 Currently implemented:
 * [TD-Box2D-MouseDemo](https://www.instagram.com/p/Be6lsn1AM3N/)
